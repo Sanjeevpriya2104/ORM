@@ -43,7 +43,7 @@ class MovieAdmin(admin.ModelAdmin):
     list_display=('mid','mname','collection','year','rating')
 
 
-# OUTPUT
+## OUTPUT
 ![alt text](<Screenshot 2025-04-11 145223.png>)
 
 
