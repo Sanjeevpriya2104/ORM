@@ -46,6 +46,8 @@ class MovieAdmin(admin.ModelAdmin):
 ## OUTPUT
 ![Screenshot 2025-04-15 132349](https://github.com/user-attachments/assets/3c04de10-8411-4900-b8e4-947b70a4ae9d)
 
+![Screenshot 2025-04-15 132349](https://github.com/user-attachments/assets/20fa4f25-0f55-4a22-9ab2-1dd141693a09)
+
 
 
 
